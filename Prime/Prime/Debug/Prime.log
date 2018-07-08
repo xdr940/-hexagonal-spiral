@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (superPrime.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Xfunc.cpp
+e:\myworkspace\vs2015ws\prime\prime\comdef.h(18): warning C4005: “OVERFLOW”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(954): note: 参见“OVERFLOW”的前一个定义
+e:\myworkspace\vs2015ws\prime\prime\xfunc.cpp(57): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  window.cpp
+e:\myworkspace\vs2015ws\prime\prime\comdef.h(18): warning C4005: “OVERFLOW”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(954): note: 参见“OVERFLOW”的前一个定义
+e:\myworkspace\vs2015ws\prime\prime\window.cpp(76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\myworkspace\vs2015ws\prime\prime\window.cpp(48): warning C4101: “n”: 未引用的局部变量
+  superPrime.cpp
+e:\myworkspace\vs2015ws\prime\prime\comdef.h(18): warning C4005: “OVERFLOW”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(954): note: 参见“OVERFLOW”的前一个定义
+  isprime.cpp
+e:\myworkspace\vs2015ws\prime\prime\comdef.h(18): warning C4005: “OVERFLOW”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(954): note: 参见“OVERFLOW”的前一个定义
+  Yfunc.cpp
+e:\myworkspace\vs2015ws\prime\prime\comdef.h(18): warning C4005: “OVERFLOW”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(954): note: 参见“OVERFLOW”的前一个定义
+  正在生成代码...
+  Prime.vcxproj -> E:\MyWorkSpace\VS2015WS\Prime\Prime\Debug\Prime.exe
