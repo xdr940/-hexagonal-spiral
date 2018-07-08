@@ -1,8 +1,8 @@
 # hexagonal-spiral
 
-	You may know little about prime spiral or Ulam spiral ##https://en.wikipedia.org/wiki/Ulam_spiral##, then I think if I change the square lattice to hexagonal lattice and what its looks like.
-	you can start this project by click "superprime", by the way, this stuff is so poor which finished in a winter vacation of my Sophomore year, please don't mind.
-	what's more, wiki has already has its picture as fllowing
+  You may know little about prime spiral or Ulam spiral ##https://en.wikipedia.org/wiki/Ulam_spiral##, then I think if I change the square lattice to hexagonal lattice and what its looks like.
+  you can start this project by click "superprime", by the way, this stuff is so poor which finished in a winter vacation of my Sophomore year, please don't mind.
+  what's more, wiki has already has its picture as fllowing
 https://en.wikipedia.org/wiki/Ulam_spiral#/media/File:Hexgrid_prime_number_sprial.svg
 
 
