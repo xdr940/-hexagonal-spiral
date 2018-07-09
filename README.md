@@ -20,4 +20,4 @@ Xfunc.cpp and Yfunc.cpp
 
 # output
 
- ![image](https://github.com/xdr940/-hexagonal-spiral/edit/master/test.jpg)
+ ![image](https://github.com/xdr940/-hexagonal-spiral/blob/master/test.jpg)
