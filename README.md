@@ -18,6 +18,6 @@ Xfunc.cpp and Yfunc.cpp
 	These are  files of X and Yfunction. For each point num of i in n, it has a X coordinate and a Y coordinate,input i, you will get X and Y
 
 
-# output
+# output（1~8000）
 
  ![image](https://github.com/xdr940/-hexagonal-spiral/blob/master/test.jpg)
