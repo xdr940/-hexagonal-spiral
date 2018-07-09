@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Ulam_spiral#/media/File:Hexgrid_prime_number_spria
 
 
 
-#Files introduce
+# Files introduce
 ========================
 
 comdef.h
@@ -18,4 +18,6 @@ Xfunc.cpp and Yfunc.cpp
 	These are  files of X and Yfunction. For each point num of i in n, it has a X coordinate and a Y coordinate,input i, you will get X and Y
 
 
+# output
 
+https://github.com/xdr940/-hexagonal-spiral/edit/master/test.jpg
